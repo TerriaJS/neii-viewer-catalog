@@ -4,11 +4,13 @@
     {
       "id": "G4hIHw",
       "type": "group",
+      "sortMembersBy": "name",
       "name": "National Environmental Monitoring Sites Register",
       "members": [
         {
           "id": "FiC4m4",
           "type": "group",
+          "sortMembersBy": "name",
           "name": "Air (15)",
           "members": [
             {
@@ -548,6 +550,7 @@
         {
           "id": "vS4ZUU",
           "type": "group",
+          "sortMembersBy": "name",
           "name": "Biota (2)",
           "members": [
             {
@@ -640,6 +643,7 @@
         {
           "id": "yiPykt",
           "type": "group",
+          "sortMembersBy": "name",
           "name": "Land (6)",
           "members": [
             {
@@ -872,6 +876,7 @@
         {
           "id": "hAEKnT",
           "type": "group",
+          "sortMembersBy": "name",
           "name": "Ocean (11)",
           "members": [
             {
@@ -1325,6 +1330,7 @@
         {
           "id": "dhmBSp",
           "type": "group",
+          "sortMembersBy": "name",
           "name": "Other (9)",
           "members": [
             {
@@ -1560,6 +1566,7 @@
         {
           "id": "qysuGY",
           "type": "group",
+          "sortMembersBy": "name",
           "name": "Water (11)",
           "members": [
             {

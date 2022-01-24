@@ -4,6 +4,7 @@
     {
       "id": "3UtFsW",
       "type": "group",
+      "sortMembersBy": "name",
       "name": "Contextual layers",
       "members": [
         {

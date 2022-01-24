@@ -4,11 +4,13 @@
     {
       "id": "neii-data-services-conformant",
       "type": "group",
+      "sortMembersBy": "name",
       "name": "NEII Data Services – Conformant",
       "members": [
         {
           "id": "tjdmfE",
           "type": "group",
+          "sortMembersBy": "name",
           "name": "Biota (3)",
           "members": [
             {
@@ -25,6 +27,7 @@
             {
               "id": "G4bwdk",
               "type": "group",
+              "sortMembersBy": "name",
               "name": "National Vegetation Information System (DoAWE)",
               "members": [
                 {
@@ -82,6 +85,7 @@
             {
               "id": "Csiqkv",
               "type": "group",
+              "sortMembersBy": "name",
               "name": "Fish abundance (eAtlas)",
               "members": [
                 {

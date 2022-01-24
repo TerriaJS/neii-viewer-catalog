@@ -4,16 +4,19 @@
     {
       "id": "neii-data-services-conformant",
       "type": "group",
+      "sortMembersBy": "name",
       "name": "NEII Data Services – Conformant",
       "members": [
         {
           "id": "bJqUCH",
           "type": "group",
+          "sortMembersBy": "name",
           "name": "Air (3)",
           "members": [
             {
               "id": "1kW4ve",
               "type": "group",
+              "sortMembersBy": "name",
               "name": "Australian Gridded Solar Climatology (BoM)",
               "members": [
                 {
@@ -150,16 +153,19 @@
             {
               "id": "hIAaJ1",
               "type": "group",
+              "sortMembersBy": "name",
               "name": "Australian Climate (BoM)",
               "members": [
                 {
                   "id": "2W6iFA",
                   "type": "group",
+                  "sortMembersBy": "name",
                   "name": "Grids",
                   "members": [
                     {
                       "id": "1irfx6",
                       "type": "group",
+                      "sortMembersBy": "name",
                       "name": "Rainfall",
                       "members": [
                         {
@@ -180,6 +186,7 @@
                     {
                       "id": "FsifXq",
                       "type": "group",
+                      "sortMembersBy": "name",
                       "name": "Temperature",
                       "members": [
                         {
@@ -210,6 +217,7 @@
                     {
                       "id": "JBZnz5",
                       "type": "group",
+                      "sortMembersBy": "name",
                       "name": "Solar",
                       "members": [
                         {
@@ -355,6 +363,7 @@
                 {
                   "id": "VdXJiG",
                   "type": "group",
+                  "sortMembersBy": "name",
                   "name": "Sites and Stations",
                   "members": [
                     {
@@ -605,6 +614,7 @@
                 {
                   "id": "PcizAF",
                   "type": "group",
+                  "sortMembersBy": "name",
                   "name": "Boundaries",
                   "members": [
                     {

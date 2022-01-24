@@ -4,15 +4,18 @@
     {
       "id": "neii-data-services-conformant",
       "type": "group",
+      "sortMembersBy": "name",
       "name": "NEII Data Services – Conformant",
       "members": [
         {
           "id": "Ib4nDn",
           "type": "group",
+          "sortMembersBy": "name",
           "name": "Oceans (14)",
           "members": [
             {
               "type": "wfs-group",
+              "sortMembersBy": "name",
               "name": " NSW Marine protected areas (NSW DPI)",
               "description": "This layer provides a geographic interpretation of Marine Park and Aquatic Reserve boundaries in NSW as described in the NSW Marine Estate Management (Management Rules) Regulation 1999 and NSW Government Gazette (Aquatic Reserves).",
               "info": [
@@ -34,11 +37,13 @@
             {
               "id": "s3urd5",
               "type": "group",
+              "sortMembersBy": "name",
               "name": "Marine water quality (eReefs) (BoM)",
               "members": [
                 {
                   "id": "4LKHg5",
                   "type": "group",
+                  "sortMembersBy": "name",
                   "name": "Annual median",
                   "members": [
                     {
@@ -147,6 +152,7 @@
                 {
                   "id": "fPmhR3",
                   "type": "group",
+                  "sortMembersBy": "name",
                   "name": "Seasonal median",
                   "members": [
                     {
@@ -253,6 +259,7 @@
                 {
                   "id": "2MNIrI",
                   "type": "group",
+                  "sortMembersBy": "name",
                   "name": "Monthly median",
                   "members": [
                     {
@@ -359,6 +366,7 @@
                 {
                   "id": "t7FXCC",
                   "type": "group",
+                  "sortMembersBy": "name",
                   "name": "Weekly median",
                   "members": [
                     {
@@ -465,6 +473,7 @@
                 {
                   "id": "rBNlUR",
                   "type": "group",
+                  "sortMembersBy": "name",
                   "name": "Daily median",
                   "members": [
                     {
@@ -588,10 +597,12 @@
             {
               "id": "ecE1JD",
               "type": "group",
+              "sortMembersBy": "name",
               "name": "Reef temperature (eReefs) (BoM)",
               "members": [
                 {
                   "type": "wms-group",
+                  "sortMembersBy": "name",
                   "name": "Sea surface temperature (daily composites)",
                   "url": "http://ereeftds.bom.gov.au/ereefs/tds/wms/ereefs/RT2_gridAgg_P1D_SST",
                   "id": "YnQmdc",
@@ -601,6 +612,7 @@
                 },
                 {
                   "type": "wms-group",
+                  "sortMembersBy": "name",
                   "name": "Degree heating days (daily composites)",
                   "url": "http://ereeftds.bom.gov.au/ereefs/tds/wms/ereefs/RT2_gridAgg_P1D_DHD",
                   "id": "4guJSe",
@@ -610,6 +622,7 @@
                 },
                 {
                   "type": "wms-group",
+                  "sortMembersBy": "name",
                   "name": "Error variables (daily composites)",
                   "url": "http://ereeftds.bom.gov.au/ereefs/tds/wms/ereefs/RT2_gridAgg_P1D_ERR",
                   "id": "xI88Ia",
@@ -619,6 +632,7 @@
                 },
                 {
                   "type": "wms-group",
+                  "sortMembersBy": "name",
                   "name": "Weekly composites",
                   "url": "http://ereeftds.bom.gov.au/ereefs/tds/wms/ereefs/RT2_gridAgg_P1W",
                   "id": "C4jfaf",
@@ -628,6 +642,7 @@
                 },
                 {
                   "type": "wms-group",
+                  "sortMembersBy": "name",
                   "name": "Monthly composites",
                   "url": "http://ereeftds.bom.gov.au/ereefs/tds/wms/ereefs/RT2_gridAgg_P1M",
                   "id": "q2njqI",
@@ -637,6 +652,7 @@
                 },
                 {
                   "type": "wms-group",
+                  "sortMembersBy": "name",
                   "name": "Seasonal composites",
                   "url": "http://ereeftds.bom.gov.au/ereefs/tds/wms/ereefs/RT2_gridAgg_P6M",
                   "id": "lE74aT",
@@ -646,6 +662,7 @@
                 },
                 {
                   "type": "wms-group",
+                  "sortMembersBy": "name",
                   "name": "Annual composites",
                   "url": "http://ereeftds.bom.gov.au/ereefs/tds/wms/ereefs/RT2_gridAgg_P1A",
                   "id": "XLEaNj",
@@ -672,6 +689,7 @@
             {
               "id": "4WSf3d",
               "type": "group",
+              "sortMembersBy": "name",
               "name": "Marine key ecological features (DotEE)",
               "members": [
                 {
@@ -737,6 +755,7 @@
             {
               "id": "6ZhkVW",
               "type": "group",
+              "sortMembersBy": "name",
               "name": "Australian Coastal Sediment Compartments",
               "members": [
                 {
@@ -840,6 +859,7 @@
             {
               "id": "22K4lf",
               "type": "group",
+              "sortMembersBy": "name",
               "name": "Bathymetry Derivatives Map of Australia",
               "members": [
                 {
@@ -921,6 +941,7 @@
             {
               "id": "H2N7jD",
               "type": "group",
+              "sortMembersBy": "name",
               "name": "Dynamic National Map Hydrology and Marine - Points",
               "members": [
                 {
@@ -1254,6 +1275,7 @@
             {
               "id": "eX38Sr",
               "type": "group",
+              "sortMembersBy": "name",
               "name": "Dynamic National Map Hydrology and Marine",
               "members": [
                 {
@@ -2115,6 +2137,7 @@
             {
               "id": "4KYHfW",
               "type": "group",
+              "sortMembersBy": "name",
               "name": "Dynamic National Map Hydrology and Marine - Lines",
               "members": [
                 {
@@ -2292,6 +2315,7 @@
             {
               "id": "25Xgm4",
               "type": "group",
+              "sortMembersBy": "name",
               "name": "Dynamic National Map Hydrology and Marine - Polygons",
               "members": [
                 {
