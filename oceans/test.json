@@ -744,9 +744,9 @@
             },
             {
               "type": "wms",
-              "name": "Collaborative Australian Protected Areas Database (CAPAD) 2018 - Marine (DoEE)",
+              "name": "Collaborative Australian Protected Areas Database (CAPAD) 2020 - Marine (DoEE)",
               "url": "http://www.environment.gov.au/mapping/services/ogc_services/CAPAD_MARINE/MapServer/WMSServer",
-              "layers": "Marine CAPAD",
+              "layers": "0",
               "id": "ttH2wn",
               "shareKeys": [
                 "Root Group/NEII Data Services – Conformant/Oceans (14)/Collaborative Australian Protected Areas Database (CAPAD) 2018 - Marine (DoEE)"
