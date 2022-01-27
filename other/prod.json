@@ -4,26 +4,31 @@
     {
       "id": "neii-data-services-conformant",
       "type": "group",
+      "sortMembersBy": "name",
       "name": "NEII Data Services – Conformant",
       "members": [
         {
           "id": "VMYxN4",
           "type": "group",
+          "sortMembersBy": "name",
           "name": "Other (1)",
           "members": [
             {
               "id": "z5FtfR",
               "type": "group",
+              "sortMembersBy": "name",
               "name": "Satellite Imagery",
               "members": [
                 {
                   "id": "Cs1If1",
                   "type": "group",
+                  "sortMembersBy": "name",
                   "name": "Water Observations from Space",
                   "members": [
                     {
                       "id": "iIHYGp",
                       "type": "group",
+                      "sortMembersBy": "name",
                       "name": "Daily observations",
                       "members": [
                         {
@@ -51,6 +56,7 @@
                     {
                       "id": "X1NIeC",
                       "type": "group",
+                      "sortMembersBy": "name",
                       "name": "Seasonal summaries",
                       "members": [
                         {
@@ -157,6 +163,7 @@
                     {
                       "id": "zSFvDg",
                       "type": "group",
+                      "sortMembersBy": "name",
                       "name": "Annual Summaries",
                       "members": [
                         {
@@ -215,6 +222,7 @@
                     {
                       "id": "zlTkTU",
                       "type": "group",
+                      "sortMembersBy": "name",
                       "name": "All of time Summaries",
                       "members": [
                         {
@@ -310,6 +318,7 @@
                 {
                   "id": "ZwkTr5",
                   "type": "group",
+                  "sortMembersBy": "name",
                   "name": "Annual Landsat Geomedian",
                   "members": [
                     {
@@ -401,6 +410,7 @@
                 {
                   "id": "IiVqAG",
                   "type": "group",
+                  "sortMembersBy": "name",
                   "name": "Barest Earth (Landsat 8)",
                   "members": [
                     {
@@ -438,6 +448,7 @@
                 {
                   "id": "PHSqK6",
                   "type": "group",
+                  "sortMembersBy": "name",
                   "name": "Sentinel-2 Definitive",
                   "members": [
                     {
@@ -538,6 +549,7 @@
                 {
                   "id": "VbZFGt",
                   "type": "group",
+                  "sortMembersBy": "name",
                   "name": "Near Real-Time",
                   "members": [
                     {
@@ -608,11 +620,13 @@
                 {
                   "id": "GxEzA5",
                   "type": "group",
+                  "sortMembersBy": "name",
                   "name": "Fractional Cover Percentiles",
                   "members": [
                     {
                       "id": "iMqF6b",
                       "type": "group",
+                      "sortMembersBy": "name",
                       "name": "Fractional Cover Percentiles Annual",
                       "members": [
                         {
@@ -687,6 +701,7 @@
                     {
                       "id": "PjGrfd",
                       "type": "group",
+                      "sortMembersBy": "name",
                       "name": "Fractional Cover Percentiles Seasonal",
                       "members": [
                         {
@@ -766,6 +781,7 @@
                 {
                   "id": "DXEFvl",
                   "type": "group",
+                  "sortMembersBy": "name",
                   "name": "Marine and Tidal Regions",
                   "members": [
                     {
@@ -792,6 +808,7 @@
                 {
                   "id": "QRTf5z",
                   "type": "group",
+                  "sortMembersBy": "name",
                   "name": "Weathering Intensity",
                   "members": [
                     {
@@ -818,6 +835,7 @@
                 {
                   "id": "hN5QEU",
                   "type": "group",
+                  "sortMembersBy": "name",
                   "name": "Multi-Scale Topographic Position",
                   "members": [
                     {
@@ -844,6 +862,7 @@
                 {
                   "id": "sPBn3P",
                   "type": "group",
+                  "sortMembersBy": "name",
                   "name": "GSKY Blended Service",
                   "members": [
                     {
@@ -881,11 +900,13 @@
         {
           "id": "AZJZTz",
           "type": "group",
+          "sortMembersBy": "name",
           "name": "Processes (1)",
           "members": [
             {
               "id": "gHzKBd",
               "type": "group",
+              "sortMembersBy": "name",
               "name": "Natural Hazards (including fire) (5)",
               "members": [
                 {
@@ -924,6 +945,7 @@
                 {
                   "id": "UcqdxL",
                   "type": "group",
+                  "sortMembersBy": "name",
                   "name": "Expected Australian Earthquake Hazard - Web Mercator (Geoscience Australia)",
                   "members": [
                     {
@@ -969,6 +991,7 @@
                 {
                   "id": "fcVMNm",
                   "type": "group",
+                  "sortMembersBy": "name",
                   "name": "Tropical Cyclone Hazard Assessment 2018 (Geoscience Australia)",
                   "members": [
                     {

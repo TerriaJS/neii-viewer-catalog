@@ -4,21 +4,25 @@
     {
       "id": "neii-data-services-conformant",
       "type": "group",
+      "sortMembersBy": "name",
       "name": "NEII Data Services – Conformant",
       "members": [
         {
           "id": "GSMxyR",
           "type": "group",
+          "sortMembersBy": "name",
           "name": "Water (7)",
           "members": [
             {
               "id": "C65b6v",
               "type": "group",
+              "sortMembersBy": "name",
               "name": "Geofabric (BoM)",
               "members": [
                 {
                   "id": "BzfqPR",
                   "type": "group",
+                  "sortMembersBy": "name",
                   "name": "Surface Hydrology - Stream Cartography",
                   "members": [
                     {
@@ -263,6 +267,7 @@
                 {
                   "id": "YFFT7Z",
                   "type": "group",
+                  "sortMembersBy": "name",
                   "name": "Surface Hydrology - Stream Network",
                   "members": [
                     {
@@ -381,6 +386,7 @@
                 {
                   "id": "QaTzLP",
                   "type": "group",
+                  "sortMembersBy": "name",
                   "name": "Surface Hydrology - Catchments",
                   "members": [
                     {
@@ -445,6 +451,7 @@
                 {
                   "id": "1VLMxd",
                   "type": "group",
+                  "sortMembersBy": "name",
                   "name": "Hydrogeology - Groundwater Cartography",
                   "members": [
                     {
@@ -689,6 +696,7 @@
                 {
                   "id": "WJYCYc",
                   "type": "group",
+                  "sortMembersBy": "name",
                   "name": "Reporting Catchments and Regions",
                   "members": [
                     {
@@ -805,6 +813,7 @@
             {
               "id": "3KK72F",
               "type": "group",
+              "sortMembersBy": "name",
               "name": "Water Regulations Data (BoM)",
               "members": [
                 {
@@ -1245,6 +1254,7 @@
             {
               "id": "wkcRns",
               "type": "group",
+              "sortMembersBy": "name",
               "name": "Hydrogeology (GA)",
               "members": [
                 {
@@ -1278,6 +1288,7 @@
             {
               "id": "Rwtdef",
               "type": "group",
+              "sortMembersBy": "name",
               "name": "Australian Surface Hydrology (Web Mercator)",
               "members": [
                 {
@@ -1379,11 +1390,13 @@
             {
               "id": "uMAarl",
               "type": "group",
+              "sortMembersBy": "name",
               "name": "Queensland watercourse and water area web map service (Department of Natural Resources, Mines and Energy, Queensland Government)",
               "members": [
                 {
                   "id": "fzlRAd",
                   "type": "group",
+                  "sortMembersBy": "name",
                   "name": "Canal",
                   "members": [
                     {
@@ -1436,6 +1449,7 @@
                 {
                   "id": "jgPbAV",
                   "type": "group",
+                  "sortMembersBy": "name",
                   "name": "Watercourse",
                   "members": [
                     {
@@ -1723,18 +1737,9 @@
               ]
             },
             {
-              "type": "wms",
-              "name": "Great Artesian Basin Watertable elevation",
-              "url": "https://services.ga.gov.au/gis/services/Great_Artesian_Basin_water_table_elevation/MapServer/WMSServer?request=GetCapabilities&service=WMS",
-              "layers": "Great_Artesian_Basin_Water_Table_Elevation",
-              "id": "miziIw",
-              "shareKeys": [
-                "Root Group/NEII Data Services – Conformant/Water (7)/Great Artesian Basin Watertable elevation"
-              ]
-            },
-            {
               "id": "Wx31p4",
               "type": "group",
+              "sortMembersBy": "name",
               "name": "Great Artesian Basin Digital Data (Geoscience Australia)",
               "members": [
                 {
@@ -1790,6 +1795,7 @@
                 {
                   "id": "4NYT1n",
                   "type": "group",
+                  "sortMembersBy": "name",
                   "name": "Aquifer Groundwater Chemistry",
                   "members": [
                     {
@@ -2215,6 +2221,7 @@
                 {
                   "id": "81kWsd",
                   "type": "group",
+                  "sortMembersBy": "name",
                   "name": "Geological Formation Contact Surfaces",
                   "members": [
                     {
@@ -2442,6 +2449,7 @@
                 {
                   "id": "r6HyQL",
                   "type": "group",
+                  "sortMembersBy": "name",
                   "name": "Potentiometric Surfaces",
                   "members": [
                     {
@@ -2573,6 +2581,7 @@
                 {
                   "id": "cM5LDr",
                   "type": "group",
+                  "sortMembersBy": "name",
                   "name": "Polygonal Faulting",
                   "members": [
                     {
@@ -2604,6 +2613,7 @@
                 {
                   "id": "6ZmPht",
                   "type": "group",
+                  "sortMembersBy": "name",
                   "name": "Watertable Elevation",
                   "members": [
                     {

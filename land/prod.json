@@ -4,16 +4,19 @@
     {
       "id": "neii-data-services-conformant",
       "type": "group",
+      "sortMembersBy": "name",
       "name": "NEII Data Services – Conformant",
       "members": [
         {
           "id": "ZdSVs8",
           "type": "group",
+          "sortMembersBy": "name",
           "name": "Land (15)",
           "members": [
             {
               "id": "iXl7Gr",
               "type": "group",
+              "sortMembersBy": "name",
               "name": "Australian Geophysical Data Collection (GA)",
               "members": [
                 {
@@ -94,9 +97,9 @@
             },
             {
               "type": "wms",
-              "name": "Collaborative Australian Protected Areas Database (CAPAD) 2018 - Terrestrial (DoEE)",
+              "name": "Collaborative Australian Protected Areas Database (CAPAD) 2020 - Terrestrial (DoEE)",
               "url": "http://www.environment.gov.au/mapping/services/ogc_services/capad/MapServer/WMSServer",
-              "layers": "Protected_Areas",
+              "layers": "Terrestrial CAPAD",
               "id": "ig7eYC",
               "shareKeys": [
                 "Root Group/NEII Data Services – Conformant/Land (15)/Collaborative Australian Protected Areas Database (CAPAD) 2018 - Terrestrial (DoEE)"
@@ -115,6 +118,7 @@
             {
               "id": "znaSMQ",
               "type": "group",
+              "sortMembersBy": "name",
               "name": "Australian Geological Provinces",
               "members": [
                 {
@@ -420,6 +424,7 @@
             {
               "id": "vmsD62",
               "type": "group",
+              "sortMembersBy": "name",
               "name": "Dynamic National Map Reserves",
               "members": [
                 {
@@ -585,6 +590,7 @@
             {
               "id": "cLwz8P",
               "type": "group",
+              "sortMembersBy": "name",
               "name": "Australian Coastal Geomorphology Landform Type (Web Mercator)",
               "members": [
                 {
@@ -726,6 +732,7 @@
             {
               "id": "erR8SH",
               "type": "group",
+              "sortMembersBy": "name",
               "name": "Australian Coastal Geomorphology Landform Subtype (Web Mercator)",
               "members": [
                 {
@@ -867,6 +874,7 @@
             {
               "id": "TCINcf",
               "type": "group",
+              "sortMembersBy": "name",
               "name": "Australian Coastal Geomorphology Scale Guide (Web Mercator)",
               "members": [
                 {
@@ -948,6 +956,7 @@
             {
               "id": "wE5cYr",
               "type": "group",
+              "sortMembersBy": "name",
               "name": "Australian Coastal Geomorphology Smartline",
               "members": [
                 {
@@ -1257,6 +1266,7 @@
             {
               "id": "FJtzFq",
               "type": "group",
+              "sortMembersBy": "name",
               "name": "Queensland Geology Detailed Web Map Service (Department of Natural Resources, Mines and Energy, Queensland Government)",
               "members": [
                 {
@@ -1277,6 +1287,7 @@
                 {
                   "id": "5IYxJN",
                   "type": "group",
+                  "sortMembersBy": "name",
                   "name": "Detailed 1:100k",
                   "members": [
                     {
@@ -1342,6 +1353,7 @@
                     {
                       "id": "5ihsnm",
                       "type": "group",
+                      "sortMembersBy": "name",
                       "name": "Detailed Structure",
                       "members": [
                         {
